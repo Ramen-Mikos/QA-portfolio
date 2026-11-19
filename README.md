@@ -140,7 +140,7 @@
 
 ## 📫 Контакты
 
-**Имя:** Даниил Чуприк
+
 
 **Email:** [cuprikdaniil3@gmail.com](mailto:cuprikdaniil3@gmail.com)
 
